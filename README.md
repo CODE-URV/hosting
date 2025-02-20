@@ -127,4 +127,5 @@ University, mainly composed of students from the ETSE (School of Engineering).
 
 
 ### People involved in the `hosting` development
-* **Aleix Mariné-Tena**: Main developer of `hosting`.
+* **Aleix Mariné-Tena**: Main developer of [`simple-image-hosting`](https://github.com/Equipaments-Hosteleria-Salou/simple-image-hosting),
+  which was used to bootstrap this repository. 
